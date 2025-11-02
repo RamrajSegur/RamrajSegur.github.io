@@ -1,4 +1,4 @@
-# Ramraj Segur - Professional Portfolio
+# Ramraj Segur Mahadevaraja - Professional Portfolio
 
 Welcome to my professional portfolio! I'm a **PD Software Engineer** specializing in **AI, RAG/GraphRAG, and advanced algorithm development** with 10+ years of automotive industry experience.
 
