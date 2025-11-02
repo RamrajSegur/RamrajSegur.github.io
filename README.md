@@ -35,7 +35,7 @@ I architect intelligent solutions combining cutting-edge AI technologies with re
 ## 🎓 Education
 
 - **Master of Science** - Automotive Engineering (Clemson University International Center for Automotive Research)
-- **Bachelor of Technology** - Mechanical Engineering (Visvesvaraya Technological University)
+- **Bachelor of Technology** - Mechanical Engineering (Government College of Technology, Coimbatore - Anna University)
 
 ## 🌐 Portfolio Website
 
